@@ -12,7 +12,7 @@ Programming, for me, is not just about writing code; it's about creativity, prob
 
 2. **Web Development**: Exploring the vast ecosystem of web technologies is something I find incredibly exciting. From frontend frameworks like React and Vue.js to backend frameworks like Node.js and Django, I enjoy experimenting with different tools and frameworks to create dynamic web applications.
 
-3. **Mobile App Development**: Mobile apps have become an integral part of our daily lives, and I'm enthusiastic about creating engaging and user-friendly mobile experiences. Whether it's Android development using Java or Kotlin, or iOS development with Swift, I'm always eager to explore new avenues in mobile app development.
+3. **Mobile App Development**: Mobile apps have become an integral part of our daily lives, and I'm enthusiastic about creating engaging and user-friendly mobile experiences. Whether it's Android development using Java or Kotlin, I'm always eager to explore new avenues in mobile app development.
 
 ## Contact Me
 
